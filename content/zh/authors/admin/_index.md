@@ -4,7 +4,7 @@ name: 罗元
 
 # Username (this should match the folder name)
 authors:
-- admin
+- zh/admin
 
 # Is this the primary user of the site?
 superuser: true
@@ -21,20 +21,21 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Cyber-physical security
+- Cyber-physical system security
 - Smart home privacy & security
 - Android security
 
 education:
   courses:
-  - course: Ph.D. student, 2015 to present
-    institution: Wuhan University
+  - course: 博士生, 2015－至今
+    institution: 武汉大学
+
    
-  - course: Visiting student, 2018.09 - 2019.12
-    institution: Virginia Tech
+  - course: 联合培养博士生, 2018.09 - 2019.12
+    institution: 美国弗吉尼亚理工大学（Virginia Tech）
   
-  - course: BSc in Information security
-    institution: Wuhan University
+  - course: 信息安全专业，学士
+    institution: 武汉大学
     year: 2015
 
 # Social/Academic Networking
@@ -67,6 +68,8 @@ user_groups:
 - Visitors
 ---
 
-I am a fourth-year Ph.D. student in the School of Cyber Science and Engineering at Wuhan University. My advisor is Prof. Guojun Peng. During Sep. 2018 to Dec. 2019, I worked as a visiting student under the supervision of Prof. Daphne Yao at Virginia Tech. Also, I am fortunate to work with Prof. Long Cheng at Clemson University.
+Hi! 我是罗元，目前是武汉大学国家网络安全学院博士生。我的导师是彭国军教授。在2018年9月至2019年12月，我通过国家留学基金委资助（CSC）在美国弗吉尼亚理工大学（Virginia Tech）进行博士生联合培养，导师为Prof. Daphne Yao。同时，我也很高兴得到Clemson大学Prof. Long Cheng的指导。
 
-My research mainly focuses on Cyber-physical system security, IoT security (e.g., smart home), and Android application security.
+我的研究方向为信息物理系统安全，物联网安全（特别是智能家居隐私泄漏分析），以及Android应用及系统安全。
+
+

@@ -11,22 +11,26 @@
 [zh]
   languageCode = "zh-Hans"
   contentDir = "content/zh"
-  title = "Yuan Luo"
+  title = "罗元"
   [zh.params]
          description = "测试"
+         directions = "武汉大学国家网络安全学院"
+         contact_links = [
+  {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/Yuan_leonnewton"}
+  ]
 
    [[zh.menu.main]]
-  		name = "Home"
+  		name = "主页"
   		url = "#about"
   		weight = 10
 
   	[[zh.menu.main]]
-  		name = "Publications"
+  		name = "论文列表"
   		url = "#publications"
   		weight = 40
 
   	[[zh.menu.main]]
-  		name = "Contact"
+  		name = "联系方式"
   		url = "newsection/#contact"
   		weight = 60
 
