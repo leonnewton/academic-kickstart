@@ -67,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-I am a fourth-year Ph.D. student in the School of Cyber Science and Engineering at Wuhan University. My advisor is Prof. Guojun Peng. During Sep. 2018 to Dec. 2019, I worked as a visiting student under the supervision of Prof. Daphne Yao at Virginia Tech. Also, I am fortunate to work with Prof. Long Cheng at Clemson University.
+I am a fourth-year Ph.D. student in the School of Cyber Science and Engineering at Wuhan University. My advisor is Prof. [Guojun Peng](http://cse.whu.edu.cn/index.php?s=/home/szdw/detail/id/62.html). During Sep. 2018 to Dec. 2019, I worked as a visiting student under the supervision of Prof. [Daphne Yao](http://people.cs.vt.edu/danfeng/) at Virginia Tech. Also, I am fortunate to work with Prof. [Long Cheng](https://people.computing.clemson.edu/~lcheng2/) at Clemson University.
 
 My research mainly focuses on Cyber-physical system security, IoT security (e.g., smart home), and Android application security.

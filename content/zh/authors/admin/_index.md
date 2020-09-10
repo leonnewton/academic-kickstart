@@ -68,7 +68,7 @@ user_groups:
 - Visitors
 ---
 
-Hi! 我是罗元，目前是武汉大学国家网络安全学院博士生。我的导师是彭国军教授。在2018年9月至2019年12月，我通过国家留学基金委资助（CSC）在美国弗吉尼亚理工大学（Virginia Tech）进行博士生联合培养，导师为Prof. Daphne Yao。同时，我也很高兴得到Clemson大学Prof. Long Cheng的指导。
+Hi! 我是罗元，目前是武汉大学国家网络安全学院博士生。我的导师是[彭国军](http://cse.whu.edu.cn/index.php?s=/home/szdw/detail/id/62.html)教授。在2018年9月至2019年12月，我通过国家留学基金委资助（CSC）在美国弗吉尼亚理工大学（Virginia Tech）进行博士生联合培养，导师为Prof. [Daphne Yao](http://people.cs.vt.edu/danfeng/)。同时，我也很高兴得到Clemson大学Prof. [Long Cheng](https://people.computing.clemson.edu/~lcheng2/)的指导。
 
 我的研究方向为信息物理系统安全，物联网安全（特别是智能家居隐私泄漏分析），以及Android应用及系统安全。
 
