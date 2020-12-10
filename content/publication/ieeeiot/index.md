@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://ieeexplore.ieee.org/document/9178767
+url_pdf: Papers/smarthomeprivacy.pdf
 url_code:
 url_dataset:
 url_poster:
